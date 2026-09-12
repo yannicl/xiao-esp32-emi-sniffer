@@ -1,0 +1,13 @@
+This repository uses separate licenses for hardware and software.
+
+Hardware and hardware design files are licensed under CERN-OHL-P-2.0:
+
+- Full license: LICENSES/CERN-OHL-P-2.0.txt
+
+Software, including firmware, visualization tools, and scripts, is licensed
+under the MIT License:
+
+- Full license: LICENSES/MIT.txt
+
+See readme.md for the detailed scope of each license. Files containing
+third-party material remain subject to their original license notices.
