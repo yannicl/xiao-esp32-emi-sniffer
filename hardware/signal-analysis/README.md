@@ -69,9 +69,25 @@ The firmware drives the ADS7049-Q1 through SPI2 using:
 
 See the [firmware reference](../../docs/firmware/README.md) and the [firmware source](../../firmware/xiao-esp32s3/src/main.c) for the implemented framing, decoding, sampling-rate calculation, clipping checks, and FFT pipeline.
 
-## Planned hardware documentation
+## Hardware documentation
+
+### Schematic
+
+- [Schematic PDF](schematic/Schematic_EMI_sniffer_digital_v3_2026-09-12.pdf)
+- [Schematic SVG](schematic/Schematic_EMI_sniffer_digital_v3_2026-09-12.svg)
+
+### PCB
+
+- [PCB layout PDF](pcb/PCB_PCB_EMI_ADC_XIAO_2026-09-12.pdf)
+- [PCB layout SVG](pcb/PCB_PCB_EMI_ADC_XIAO_2026-09-12.svg)
+- [PCB layout preview](pcb/PCB_PCB_EMI_ADC_XIAO_2026-09-12.png)
+
+### Manufacturing
+
+- [Bill of materials](manufacturing/BOM_EMI_sniffer_digital_v3_2026-09-12.csv)
+- [Assembly photo](manufacturing/PXL_20260912_150831035.jpg)
+
+### To be added
 
 - Circuit description and design limits.
-- EasyEDA schematic and PCB source files.
-- Bill of materials and assembly notes.
 - Frequency-response, noise, and dynamic-range measurements.
